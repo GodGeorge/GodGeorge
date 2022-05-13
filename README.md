@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wafula
 - 👀 I’m interested in all thing tech, DevOps, Programming, Cloud, Cyber Security
-- 🌱 I’m currently learning Kubernetes, Dockers and AWS
+- 🌱 I’m currently learning Kubernetes, Dockers, Azure and AWS
 - 💞️ I’m looking to collaborate on all things tech and DevOps
 - 📫 You can reach me on wanjala.wafula@gmail.com
 
